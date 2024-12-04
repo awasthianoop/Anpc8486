@@ -1,0 +1,82 @@
+Key Points-
+1) Everyone accept mail invitation about google meet.
+2) Meeting link will be same for complete training.
+3) Everyone join from your registered mailid only.
+4) If you are not joining from your registered mailid your attendance will not be calculated.
+5) If you leave meeting in between the session your attendance calculated only for that period.
+6) Whatever task assign to you everyone completed on time(Lab,MCQ,Aptitude Interview prep and LMS).
+7) If your attendance ,lab and mcq below 50% you automatic declared as dropout.(It will happen 10-12 days).
+
+How to ligin into lms.
+
+https://aln.anudip.org/login/index.php
+  User name-- AFID
+  Password- First three letter from your name then 123 all in small letter
+
+AF ID-  Your reg no, your roll no.
+Center code-- WBBTI
+Batch code- ANP-C8486
+Session timing is-- 10-1 and 1-2 soft skill training(Different meeting link)
+
+DANLC-- DATA ANALYTICS (NO+LOW CODE)
+    1) Data Visualization--- Excel and Power BI
+    2) Python Prog----
+    3) Sql Module-----
+    4) Project--------
+
+
+
+
+Excel----
+1) Formula always written with = sign
+2) Formula either written in active cell or in a formula bar
+3) For executing the formula we press enter key
+4) In excel we always use cell address not the values.
+5) Write one formula can work for all.
+6) Text always written in double quotes.
+7) Criteria means condition and criteria always written in double quotes.
+
+
+Conditional formatting---Based on condition we want to perform formatting so we used conditional formatting.
+     What is conditional formatting.
+     How to use conditional formatting
+     where to use conditional formatting
+
+
+Filter-To filter the data based on our requirement.
+
+Note- For fixing the cell reference we used $ symbol.
+
+Pivot table--  To summarize the data.
+
+Reference function-- VLOOKUP,HLOOKUP,INDEX AND MATCH
+Vlookup-- Vertical lookup--Lookup(search) the data from different column.
+vlookup(lookup value,table array,col index no,tre/false)
+
+Lookup value-- A value which is given
+Table array-- Complete data from where we are searching the data
+col index no-- From which column we find the data
+true/false-- exact/approximate match.
+
+Rule--1) In vlookup data always in the sorted order.
+2) Vlookup always lookup the data from first column
+3) If we lookup exact match if found then return it otherwise error.
+4) If we lookup approximate if found then return exact otherwise return just lowest value
+5) We lookup always working left to right.
+
+ Match -- Only work on single row/single column.
+          Match function return the position/index.
+
+
+HLOOKUP-- HORIZONTAL LOOKUP
+
+MATCH--
+
+
+
+
+
+
+
+
+
